@@ -1,0 +1,47 @@
+.head{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 91px;
+  background-color: #21222A;
+  color: #DEEBF8;
+  font-weight: 600;
+  font-size: 16px;
+  padding-left:20px;
+  padding-right:20px;
+}
+
+.logo{
+  display: flex;
+  align-items: center;
+  color: #61DAFB;
+  font-weight: bold;
+  font-size: 22.25px;
+}
+
+.mainbody{
+  background-color: #282D35;
+  padding: 20px;
+  
+}
+
+.title{
+  font-size: 39px;
+  font-weight: bold;
+  color: white;
+}
+
+.facts{
+  color: white;
+  font-size: 16px;
+  
+}
+li{
+  padding: 7px;
+}
+
+li::marker{
+  color: #61DAFB;
+}
+
+
