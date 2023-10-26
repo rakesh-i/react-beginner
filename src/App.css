@@ -31,6 +31,8 @@
   color: white;
 }
 
+
+
 .facts{
   color: white;
   font-size: 16px;
@@ -42,6 +44,7 @@ li{
 
 li::marker{
   color: #61DAFB;
+  font-size: 30px;
 }
 
 
